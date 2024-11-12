@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cuppy's World</title>
+    <style>
+        body {
+            font-family: 'Allura', cursive;
+            color: #fff;
+            background-color: #8B0000;
+            margin: 0;
+            padding: 0;
+            scroll-behavior: smooth;
+        }
+        h1, h2, h3 {
+            font-weight: bold;
+
+            color: #fff;
+        }
+        .section {
+            padding: 60px 20px;
+            text-align: center;
+        }
+        .about, .contact, .blog, .qa {
+            background-color: #8B0000;
+        }
+        .contact-info {
+            font-size: 18px;
+            color: #fff;
+            text-decoration: none;
+        }
+        a {
+            color: #FFD700;
+            text-decoration: none;
+        }
+        .social-links a {
+            display: inline-block;
+            margin: 10px;
+            color: #FFD700;
+            font-size: 18px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        footer {
+            background-color: #8B0000;
+            color: #FFD700;
+            padding: 20px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <!-- About Section -->
+        <section id="about" class="section about">
+            <h1>About Me</h1>
+            <p>Welcome to my world! I am Cuppy, a bold and beautiful spirit who believes in exploring and embracing life’s sensualities. Join me on this journey and discover a unique perspective on love, passion, and life itself.</p>
+        </section>
+
+        <!-- Contact Section -->
+        <section id="contact" class="section contact">
+            <h2>Contact Me</h2>
+            <p class="contact-info">Phone: <a href="tel:+12137821411">213-782-1411</a></p>
+            <p class="contact-info">Email: <a href="mailto:cuppykream@gmail.com">cuppykream@gmail.com</a></p>
+        </section>
+
+        <!-- Blog Section -->
+        <section id="blog" class="section blog">
+            <h2>Blog</h2>
+            <p>In my blog, I share my journey as a sex worker. I embrace the freedom, the allure, and the connections I create. Dive into my world where I openly discuss the beauty and challenges of this path.</p>
+        </section>
+
+        <!-- Q&A Section -->
+        <section id="qa" class="section qa">
+            <h2>Q&A</h2>
+            <p>Curious about what I do? Here’s a space for your questions and my answers. I believe in transparency and am here to demystify any misconceptions. Let’s talk!</p>
+        </section>
+
+        <!-- Social Links -->
+        <div class="section social-links">
+            <h3>Connect with Me</h3>
+            <a href="https://privatedelights.ch/profile/Cuppycakes818" target="_blank">Private Delights Reviews</a> |
+            <a href="https://www.onlyfans.com/cupcakedumthic" target="_blank">OnlyFans</a> |
+            <a href="https://www.instagram.com/cuppykream/profilecard/?igsh=MzRlODBiNWFlZA==" target="_blank">Instagram</a> |
+            <span>Snapchat: ccxthegoddess</span>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2024 Cuppy. All rights reserved.</p>
+    </footer>
+</body>
+</html>
